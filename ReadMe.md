@@ -66,17 +66,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=ShubhangiRoy12&limit=5&theme=dark)
-
----
-
-![Profile Visits](https://visitcount.itsvg.in/api?id=ShubhangiRoy12&label=Profile%20Views&count=true)
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-
----
-
 ## 📌 Pinned Projects
 - [MooVit](https://github.com/ShubhangiRoy12/MooVit): Smart real-time safety assistant for visually impaired users.
 - [LearnSphere_2](https://github.com/omroy07/LearnSphere_2): AI-powered educational platform for interactive learning.
