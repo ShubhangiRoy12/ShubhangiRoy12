@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uravitys12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhangi-roy-762a3427a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhangi-roy-762a3427a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhangi1913@gmail.com)
 
 ---
@@ -47,34 +47,42 @@
 ---
 
 ## 📊 GitHub Stats:
-<!-- Add your stats cards below as needed -->
-<!-- Example: -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) -->
+![ShubhangiRoy12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhangiRoy12&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShubhangiRoy12&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiRoy12&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-<!-- Example trophy: -->
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=gruvbox) -->
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ShubhangiRoy12&theme=radical)
 
 ---
 
 ### ✍️ Random Dev Quote
-<!-- Example Quote: -->
-<!-- “Code is like humor. When you have to explain it, it’s bad.” -->
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
 
 ### 🔝 Top Contributed Repo
-<!-- Example: -->
-<!-- ![Top Repo](https://github-contributor-stats.vercel.app/api?username=YourUsername&limit=5&theme=dark) -->
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=ShubhangiRoy12&limit=5&theme=dark)
 
 ---
 
-![Profile Visits](https://visitcount.itsvg.in)
+![Profile Visits](https://visitcount.itsvg.in/api?id=ShubhangiRoy12&label=Profile%20Views&count=true)
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
+---
+
+## 📌 Pinned Projects
+- [MooVit](https://github.com/ShubhangiRoy12/MooVit): Smart real-time safety assistant for visually impaired users.
+- [LearnSphere_2](https://github.com/omroy07/LearnSphere_2): AI-powered educational platform for interactive learning.
+- [ObjectDetectionUsingTrafficVideo](https://github.com/ShubhangiRoy12/ObjectDetectionUsingTrafficVideo): Vehicle, pedestrian, and sign detection in videos using deep learning.
+- [AgriTech](https://github.com/KanishaSharma11/AgriTech): AI-powered agriculture platform.
+- [SerenityLinks](https://github.com/ShubhangiRoy12/SerenityLinks): Social platform analyzing digital body language with AI matchmaking.
+
 ```
 
-***
-
-Would you like me to enhance it further with animated GitHub streaks, contribution graphs, or themed headers (e.g., neon or dark-glass style)?
