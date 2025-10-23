@@ -1,19 +1,67 @@
-# 💫 About Me:
-🔭 I’m currently working on ML development<br>🕺 I’m looking to collaborate on projects with my teammates<br>🤝 I’m looking for help with guidance and projects<br>🌱 I’m currently learning Gen AI, ML & Frontend Development<br>💬 Ask me about ML, AI projects, and development ideas<br>⚡ Fun fact I like animation, gaming, and development
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=600&color=1EE6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Hey%2C+I'm+Shubhangi+Roy+%F0%9F%91%8B;AI+%26+ML+Developer+%7C+Frontend+Explorer" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/AI%20%26%20ML-Active-1ee6ff?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/Frontend-React%20Learner-8a2be2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-00d26a?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uravitys12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhangi-roy-762a3427a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhangi1913@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShubhangiRoy12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShubhangiRoy12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiRoy12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### About me
+- 🔭 Building ML projects and GenAI experiments; love hackathon-style sprints and product polish. [web:3]  
+- 🌱 Learning GenAI pipelines and modern frontend; always up for pairing on ideas. [web:3]  
+- 💬 Ask about ML project scoping, model selection, and UI/UX for AI apps. [web:3]  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShubhangiRoy12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Tech stack
+- Python, PyTorch, TensorFlow, scikit‑learn, OpenCV; plus JavaScript/TypeScript, React, Flask. [web:3]  
+- Tools: Git, GitHub, Jupyter, VS Code; adding CI with Actions for auto‑generated visuals. [web:9]  
+
+---
+
+### Featured work
+- MooVit: real‑time safety assistant for visually impaired users with detection and voice prompts. [attached_file:3]  
+- LearnSphere: interactive AI‑tutor with quizzes, animations, and calculators for self‑paced learning. [attached_file:3]  
+- Traffic Video Detection: vehicle/pedestrian/sign classification for smart monitoring. [attached_file:3]  
+
+---
+
+### GitHub fun zone
+<!-- Pac‑Man animated contribution graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhangiRoy12/ShubhangiRoy12/output/pacman/pacman.svg" alt="Pac-Man Contribution Graph"/>
+</p>
+
+<!-- Classic snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhangiRoy12/ShubhangiRoy12/output/snake/snake.svg" alt="Snake eating my contributions"/>
+</p>
+
+The Pac‑Man and Snake SVGs auto‑update daily via GitHub Actions for a playful living profile. [web:4][web:7][web:12][web:18]  
+
+---
+
+### Stats at a glance
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=ShubhangiRoy12">
+    <img src="https://streak-stats.demolab.com?user=ShubhangiRoy12&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+Streak card is themed for high contrast; customize colors and layout via query params or self‑host for reliability. [web:5][web:20]  
+
+---
+
+### Let’s connect
+- 🧠 Open to project collabs, especially GenAI + frontend mashups; badges above are from Shields.io and fully customizable. [web:19][web:13]  
