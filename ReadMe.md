@@ -1,9 +1,4 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Shubhangi%20Roy%20💫&fontAlign=50&fontSize=42&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20ML%20Developer%20|%20Frontend%20Learner&descAlignY=60" width="100%"/>
-</div>
 
----
 
 ## 💫 About Me
 
@@ -98,22 +93,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShubhangiRoy12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShubhangiRoy12/ShubhangiRoy12/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
